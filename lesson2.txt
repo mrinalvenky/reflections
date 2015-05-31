@@ -1,1 +1,8 @@
-Need to do git init to initialize a repository. After the init there is nothing commited in the repository and all files are marked as untracked. Used git status to see the current status of the files which shows all are untracked. git log gives an error.
+Need to do git init to initialize a repository. 
+After the init there is nothing commited in the repository and all files are marked as untracked. 
+Used git status to see the current status of the files which shows all are untracked. git log gives an error.
+
+3 spaces, the working directory, staging area and git. When you add it goes to staging area, when you commit
+it goes to git.
+git add to move to staging area and git commit to move to git
+
