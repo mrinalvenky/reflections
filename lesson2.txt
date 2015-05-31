@@ -6,3 +6,4 @@ Used git status to see the current status of the files which shows all are untra
 it goes to git.
 git add to move to staging area and git commit to move to git
 
+Its good to have branches when you are working on experimental features.
