@@ -13,4 +13,7 @@ and goes back till it finds a commit that has no parent.
 branches which have no labels cannot be accessed
 
 To create and checkout a branch a single command git checkout -b <branchname> can be given
+Branches can be merged automatically git merge <branch1> <branch2> where branch2 is merged to branch1. branch1 can be omitted
+if we currently have branch1 checked out. 
 
+If we are on some other branch all 3 are merged
