@@ -17,3 +17,8 @@ Branches can be merged automatically git merge <branch1> <branch2> where branch2
 if we currently have branch1 checked out. 
 
 If we are on some other branch all 3 are merged
+
+Sometimes git cannot merge by itself so we have to fix merge conflict manually.
+The merge conflict has the changes of all 3 branches the two merging and the common ancestor's
+we can search of <<<< and ||| and >>> for the conflicting checkins
+
