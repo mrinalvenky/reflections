@@ -1,0 +1,1 @@
+We can push the repository to github. We have to set github as remote and then push our repository
